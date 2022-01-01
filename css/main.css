@@ -188,10 +188,6 @@ body {
         font-size: 1.3rem;
     }
 
-    .card__body h1 > a {
-        font-weight: 400;
-    }
-
     .card__body > p {
         font-size: 1.125rem;
         margin-bottom: 0.3rem;
